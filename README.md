@@ -37,7 +37,7 @@ The user will be greeted with a welcome message and will be then prompted to ans
  ## Demo of the Application
  The following shows how I created this app and how it generates the file
 
-![The video](https://img.youtube.com/vi/o8hkjz1TQuQ/0.jpg)
+![The video][(https://img.youtube.com/vi/o8hkjz1TQuQ/0.jpg)]
 (https://www.youtube.com/watch?v=o8hkjz1TQuQ)
 
 
