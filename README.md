@@ -1,4 +1,9 @@
 # README-generator-inquirer_DR
+[![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+
 Generated a readme file using js npm and inquirer package
 # Code_Quiz_DR
 The quiz asks the player some code related questions and increases the score by one for each correct answer or decreases the time by 5 seconds if your answer is incorrect.
