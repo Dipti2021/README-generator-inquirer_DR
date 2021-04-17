@@ -44,7 +44,7 @@ The user will be greeted with a welcome message and will be then prompted to ans
  ## Questions. :
 In case of any questions, contact me through any of the following methods:
  * If you want you can [open an issue](https://github.com/Dipti2021/README-generator-inquirer_DR/issues) and let me know about it.
- * You can contact me on [my id]((mailto:dipti.raina@gmail.com)) and discuss the problems that you might have faced or even if you want to add on something to the code.
+ * You can contact me on [my  mail id](mailto:dipti.raina@gmail.com) and discuss the problems that you might have faced or even if you want to add on something to the code.
 
 
     
