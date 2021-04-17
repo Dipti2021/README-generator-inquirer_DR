@@ -1,12 +1,11 @@
 # README-generator-inquirer_DR
-[![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Project:no](https://img.shields.io/badge/Project-14-green.svg)
 
 
 
-Generated a readme file using js npm and inquirer package
-# Code_Quiz_DR
-The quiz asks the player some code related questions and increases the score by one for each correct answer or decreases the time by 5 seconds if your answer is incorrect.
+Generated a readme file using js npm and inquirer package.
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -18,7 +17,17 @@ The quiz asks the player some code related questions and increases the score by 
 * [Credits](#credits)
 
  ## Introduction 
- The quiz asks the player some code related questions. the questions are mainly based on Javascript techniques but it has been made using the concepts of HTML and CSS as well.The code quiz has 5 questions in total that needs to be answered. for each question, four options will be presented and the player has to select one option.Each correct answer increments your score by one and every incorrect answer decreases your working time by 5 seconds.This quiz is designed to play on a larger and a smaller screen format as well.
+ I have worked and added functions to the code where a part of it was already provide to me.This app generates a __README__ file based off the  user input. This app is mainly working from the "index.js" file and parts of it have been exported from "generateMarkdown"  file. Both of them being JavaScript codes.In order to start the code, you need to install the inquirer package and for that you should have npm installed. If not then you can do it using the following commands that need to be written in your terminal. 
+ ```
+npm init
+npm install
+
+```
+ 
+ The application will beginby  typing the following command in the terminal and pressing the "enter" key:
+ ```
+node index.js
+```
  
  
  ## Screenshot of the Quiz
