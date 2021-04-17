@@ -1,6 +1,6 @@
 # README-generator-inquirer_DR
 ![License: Dipti](https://img.shields.io/badge/license-Dipti'sCode-yellow.svg)
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Project:no](https://img.shields.io/badge/Project-14-green.svg)
 
 
@@ -9,8 +9,7 @@ Generated a readme file using js npm and inquirer package.
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Screenshot of the Quiz](#webpage)
-* [Working of the Application](#web)
+* [Demo of the Application](#web)
 * [Installations](#installations)
 * [Pseudocode](#details)
 * [Special Features](#features)
@@ -20,26 +19,25 @@ Generated a readme file using js npm and inquirer package.
  I have worked and added functions to the code where a part of it was already provide to me.This app generates a __README__ file based off the  user input. This app is mainly working from the "index.js" file and parts of it have been exported from "generateMarkdown"  file. Both of them being JavaScript codes.In order to start the code, you need to install the inquirer package and for that you should have npm installed. If not then you can do it using the following commands that need to be written in your terminal. 
  ```
 npm init
-npm install
-
 ```
+```
+npm install
+```
+
+
  
- The application will beginby  typing the following command in the terminal and pressing the "enter" key:
+ The application will begin by typing the following command in the terminal and pressing the "enter" key:
  ```
 node index.js
 ```
+The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
  
  
- ## Screenshot of the Quiz
- The screenshot of the Quiz looks almost similar to the one as shown here.
+ 
+ ## Demo of the Application
+ The following shows how i created this app and how it generates the file
 
- 
- ![Image](Assets/IMG_1771.JPG)
- 
- ## Working of the Application
- 
-
-![quiz](Assets/quiz%20maker.gif)
+![The video](https://www.youtube.com/watch?v=o8hkjz1TQuQ)
 
 
 The working of the code quiz has been divided into the following parts:
