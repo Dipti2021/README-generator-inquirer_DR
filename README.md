@@ -32,7 +32,7 @@ node index.js
 The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
  
  ## Screenshot of the questions
- ![image](questions.png)
+ ![image](quest.png)
  
  ## Demo of the Application
  The following shows how I created this app and how it generates the file
