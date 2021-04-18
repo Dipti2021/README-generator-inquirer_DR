@@ -33,7 +33,7 @@ node index.js
 The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
  
  ## Screenshot of the questions
- ![image](images/quest.png)
+ ![image](images/ques.png)
  
  ## Screenshot of the README
  ![image1](images/screen.png)
