@@ -36,7 +36,7 @@ The user will be greeted with a welcome message and will be then prompted to ans
  ![image](quest.png)
  
  ## Screenshot of the README
- ![image1](readme-screenshot.png)
+ ![image1](utils/readme.md)
 
  ## Demo of the Application
  The following shows how I created this app and how it generates the file. I may make some chagnges to the code to make it more clean. But more or less, it is almost an exact representation of the code
