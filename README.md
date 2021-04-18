@@ -9,6 +9,7 @@ Generated a readme file using js npm and inquirer package.
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Screenshot of the questions](#scr)
 * [Demo of the Application](#web)
 * [Installations](#installations)
 * [Questions](#ques)
@@ -30,6 +31,8 @@ node index.js
 ```
 The user will be greeted with a welcome message and will be then prompted to answer the questions.Once the user answers all the questions, a __README__ file is generated.
  
+ ## Screenshot of the questions
+ [!image](Q&A.png)
  
  ## Demo of the Application
  The following shows how I created this app and how it generates the file
@@ -41,7 +44,7 @@ The user will be greeted with a welcome message and will be then prompted to ans
    * [The URL of the Github repo](https://github.com/Dipti2021/README-generator-inquirer_DR)
    
 
- ## Questions. :
+ ## Questions
 In case of any questions, contact me through any of the following methods:
  * If you want you can [open an issue](https://github.com/Dipti2021/README-generator-inquirer_DR/issues) and let me know about it.
  * You can contact me on [my  mail id](mailto:dipti.raina@gmail.com) and discuss the problems that you might have faced or even if you want to add on something to the code.
