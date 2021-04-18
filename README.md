@@ -10,6 +10,7 @@ Generated a readme file using js npm and inquirer package.
 ## Table of Contents
 * [Introduction](#introduction)
 * [Screenshot of the questions](#scr)
+* [Screenshot of the README](#scread)
 * [Demo of the Application](#web)
 * [Installations](#installations)
 * [Questions](#ques)
@@ -34,6 +35,9 @@ The user will be greeted with a welcome message and will be then prompted to ans
  ## Screenshot of the questions
  ![image](quest.png)
  
+ ## Screenshot of the README
+ ![image1](readme-screenshot.png)
+
  ## Demo of the Application
  The following shows how I created this app and how it generates the file
 
